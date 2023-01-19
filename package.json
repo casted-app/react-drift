@@ -1,6 +1,6 @@
 {
 	"name": "@casted-app/react-driftjs",
-	"version": "2.0.0",
+	"version": "2.0.2",
 	"description": "React component implementation of Drift Chatbot Widget, forked from @chardmd/react-drift",
 	"homepage": "https://github.com/casted-app/react-drift",
 	"keywords": [
