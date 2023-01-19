@@ -1,6 +1,6 @@
 {
 	"name": "@casted-app/react-driftjs",
-	"version": "2.0.3",
+	"version": "2.0.4",
 	"description": "React component implementation of Drift Chatbot Widget, forked from @chardmd/react-drift",
 	"homepage": "https://github.com/casted-app/react-drift",
 	"keywords": [
@@ -19,8 +19,8 @@
 	},
 	"peerDependencies": {
 		"prop-types": "^15.6.0",
-		"react": "^18.0.0",
-		"react-dom": "^18.0.0"
+		"react": "^17.0.0",
+		"react-dom": "^17.0.0"
 	},
 	"devDependencies": {
 		"babel-core": "^6.21.0",
@@ -30,8 +30,8 @@
 		"babel-preset-stage-0": "^6.24.1",
 		"path": "^0.12.7",
 		"prop-types": "^15.6.0",
-		"react": "^18.0.0",
-		"react-dom": "^18.0.0",
+		"react": "^17.0.0",
+		"react-dom": "^17.0.0",
 		"webpack": "^4.20.2",
 		"webpack-cli": "^3.1.1"
 	}
